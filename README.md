@@ -2,7 +2,7 @@
 👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎https://adeptly.site🌎
 <br>🧑🏼‍🏫Teacher in Computer Science and Technologies at <b>Berlitz✨ and Startsteps✨</b>
 <br>👨🏼‍💻 <code>Developer</code> for Web and App solutions<br>
-🇸🇾 From <code>Syria</code> teaching the world 🗺
+🇩🇪 From <code>Germany</code> teaching the world 🗺
 
 
 ## 🌐 Check my social media accounts:
@@ -13,5 +13,3 @@
 # 🤓 NERD Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cedriclmao&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=cedriclmao&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cedriclmao&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&cover_image=true&theme=default&show_offline=false?username=anuraghazra&show_icons=true&theme=tokyonight)](https://spotify-github-profile.vercel.app/api/view?uid=1162699845&redirect=true)
