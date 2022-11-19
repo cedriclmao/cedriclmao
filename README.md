@@ -1,8 +1,6 @@
 # ⁉️ WhoAmI:
-👷🏼‍♂️Co-Founder of <code>Adeptly</code>: the Friendly Tech Solutions Agency 🌎https://adeptly.site🌎
-<br>🧑🏼‍🏫Teacher in Computer Science and Technologies at <b>Berlitz✨ and Startsteps✨</b>
-<br>👨🏼‍💻 <code>Developer</code> for Web and App solutions<br>
-🇩🇪 From <code>Germany</code> teaching the world 🗺
+👷🏼‍♂️CEO of <code>Quikz Development</code>: Discord Bot Development Service [https://discord.gg/](https://discord.gg/K4uubXqhYw)
+<br>👨🏼‍💻 <code>Developer</code> for Backend solutions<br>
 
 
 ## 🌐 Check my social media accounts:
