@@ -11,3 +11,5 @@
 # 🤓 NERD Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cedriclmao&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=cedriclmao&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cedriclmao&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![snake animation](https://github.com/cedriclmao/cedriclmao/blob/output/github-contribution-grid-snake2.svg)
